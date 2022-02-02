@@ -1,2 +1,2 @@
-# Lab4
-Version Control Assignment
+# Kyle Tomlinson
+# Lab4: Version Control
